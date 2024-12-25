@@ -1,0 +1,19 @@
+.App {
+  padding: 16px;
+}
+img {
+  border-radius: 50%;
+}
+
+ul {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.fragment {
+  padding:  10px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+

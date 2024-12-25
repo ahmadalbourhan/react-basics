@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Next.js is a flexible React framework that gives you building blocks to create fast, full-stack web applications.
 
 ## Building blocks of a web application
@@ -198,3 +199,6 @@ The `client` refers to the browser on a user’s device that sends a request to 
 
 The `server` refers to the computer in a data center that stores your application code, receives requests from a client, does some computation, and sends back an appropriate response.
 
+=======
+# react-basics
+>>>>>>> f45a79afc48cc4fef70e399941771245dc01d1c7
